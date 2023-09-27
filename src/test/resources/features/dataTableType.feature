@@ -1,6 +1,6 @@
 Feature: DataTestType annotation tests
 
-    Scenario: Test @DataTestType annotation
+    Scenario: Test @DataTableType annotation
         When user receives PERMISSION_ONE
         Then user has PERMISSION_ONE permission
 
